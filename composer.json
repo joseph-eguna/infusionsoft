@@ -1,18 +1,14 @@
 {
-    "name": "joseph/infusionsoft",
-    "description": "Infusionsoft API First Stage",
+    "name": "joseph-eguna/infusionsoft",
+    "description": "Test stage of ISS API",
     "type": "library",
-    "keywords": ["infusionsoft"],
-    "homepage": "https://github.com/joseph-eguna/infusionsoft",
     "license": "MIT",
     "authors": [
         {
-            "name": "Joseph Eguna",
-            "email": "joseph.eguna@gmail.com",
-            "homepage": "http://jsdigitalshop.site"
+            "name": "joseph linux",
+            "email": "joseph.eguna@gmail.com"
         }
     ],
-    "autoload": {
-        "psr-4": {"Joseph\\Infusionsoft\\": "src/"}
-    }
+    "minimum-stability": "beta",
+    "require": {}
 }
